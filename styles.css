@@ -1,0 +1,25 @@
+body{
+    background-color:  olive;
+}
+title{
+    case:"uppercase";
+    border-left: "25px";
+    font-size: "medium";
+    font-family: 'Times New Roman', Times, serif;
+    font-style: "bold";
+    text-align: left;
+}
+p{;
+     font-style: italic;
+     font-family: 'Book Antiqua';
+     text-align:left;
+}
+image{
+    padding-top: 10px;
+    margin-top: 25px;
+}
+ol{
+    margin-inline: 10px;
+    padding-inline: 25px;
+    list-order: alphabetic;
+}
